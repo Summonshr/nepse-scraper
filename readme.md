@@ -1,5 +1,5 @@
 # Nepse Scraper
-========
+
 
 An laravel based application for scraping various websites that provides the information regarding nepse (Nepal Stock Exchange) and its related news. An front end application using the data can be viewed here [STOCKNP.com](https://stocknp.com)
 
