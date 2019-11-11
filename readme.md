@@ -45,3 +45,5 @@ Scrape the current value of stock live or in trading. Schedule this command to r
 Scrape the current value of stock as of End of Day.
 
 Please submit issue or pull request in case of new feature. It will be gladly accepted.
+
+Contact me @ [LinkedIn](https://www.linkedin.com/in/suman-shresth)
